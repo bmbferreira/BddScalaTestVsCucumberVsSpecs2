@@ -1,7 +1,10 @@
 package steps
 
 import bank.BankAccount
+import com.waioeka.sbt.runner.CucumberSpec
 import cucumber.api.scala.{EN, ScalaDsl}
+
+class CucumberTestSuite extends CucumberSpec
 
 class StepDefinitions extends ScalaDsl with EN {
 
