@@ -8,6 +8,7 @@
 Small SBT project with a simple Bank Account implementation 
 making use of three different testing tools  (Cucumber, ScalaTest and Specs2)
 in order to compare each one of them about how Behavioural Driven Development can be put in practice in Scala projects.
+
 The conclusions drawn from this experiment are described in this [blog post](https://www.codacy.com/blog/putting-bdd-in-practice-using-scala/).
 
 To compile the project run ```scripts/compile.sh```.
