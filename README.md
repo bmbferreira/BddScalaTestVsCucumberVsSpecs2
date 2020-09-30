@@ -1,6 +1,6 @@
 # BDD in Scala - ScalaTest vs Cucumber vs Specs2
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f275cafaf4d1467780924c8de9eb74c6)](https://www.codacy.com/app/bmbferreira/BddScalaTestVsCucumberVsSpecs2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bmbferreira/BddScalaTestVsCucumberVsSpecs2&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8c8c4915dcc74f86ba7c2136bef50c74)](https://www.codacy.com/gh/bmbferreira/BddScalaTestVsCucumberVsSpecs2/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bmbferreira/BddScalaTestVsCucumberVsSpecs2&amp;utm_campaign=Badge_Grade)
 [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/f275cafaf4d1467780924c8de9eb74c6)](https://www.codacy.com/app/bmbferreira/BddScalaTestVsCucumberVsSpecs2?utm_source=github.com&utm_medium=referral&utm_content=bmbferreira/BddScalaTestVsCucumberVsSpecs2&utm_campaign=Badge_Coverage)
 [![CircleCI](https://circleci.com/gh/codacy/codacy-metrics-radon.svg?style=svg)](https://circleci.com/gh/bmbferreira/BddScalaTestVsCucumberVsSpecs2)
 
